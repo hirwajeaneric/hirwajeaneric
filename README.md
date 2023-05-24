@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm HIRWA Jean Eric</h1>
 <h3 align="center">A Software Developer and Engineer who likes to transform ideas into reality.</h3>
 
-- 🔭 I’m currently working as a **Freelance software developer using the M.E.R.N stack, and learning new stuff.**
-
-- 🌱 In this year of 2023, I’m finishing my studies at the **Adventist University of Centra Africa in Information Technology, department of Software Engineering**
+- 🔭 I’m a **Software developer specialized with using the M.E.R.N and P.E.R.N stacks.**
 
 - 👯I am open to opportunities to collaborate on **open source projects, internships, jobs, and/or entry-level positions.**
 
@@ -11,7 +9,7 @@
 
 - 📫 You can reach me on: **hirwajeric@gmail.com**
 
-- ⚡ Fun fact: **I am also good at Graphic design, and I am also good at Drawing**
+- ⚡ Fun fact: **I am also a Certified Graphic Designer, quite good at Drawing, a copywriter, with exceptional speaking and writting skills.**
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hirwa_jean_eric/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://rw.linkedin.com/in/jean-eric-hirwa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hirwa)
