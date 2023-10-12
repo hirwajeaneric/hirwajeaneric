@@ -3,11 +3,9 @@
 
 - 🔭 I’m a **Software developer specialized with using the M.E.R.N and P.E.R.N stacks.**
 
-- 👯I am open to opportunities to collaborate on **open source projects, internships, jobs, and/or entry-level positions.**
+- 👯I am open to opportunities to collaborate on **open source projects.**
 
-- 👨‍💻 All of my projects are available [here](https://hirwajeaneric.netlify.app/)
-
-- ⚡ Fun fact: **I am also a Certified Graphic Designer, quite good at Drawing, and a copywriter, with exceptional speaking and writing skills.**
+- ⚡ Fun fact: **I am also a Certified Graphic Designer, good at Drawing, and a copywriter with exceptional speaking, writing, and conveying whatever it is I know.**
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hirwa_jean_eric/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://rw.linkedin.com/in/jean-eric-hirwa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hirwa)
