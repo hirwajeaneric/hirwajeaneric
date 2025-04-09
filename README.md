@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact: **I am also a Certified Graphic Designer, good at Drawing, and a copywriter with exceptional speaking, and writing skills, and good at conveying whatever it is I know.**
 
-- 🌐 View more of my [Work](https://hirwajeaneric.netlify.app/)
+- 🌐 View more of my [Work](https://erichirwa.com/)
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hirwa_jean_eric/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://rw.linkedin.com/in/jean-eric-hirwa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hirwa)
