@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm HIRWA Jean Eric</h1>
 <h3 align="center">A Software Developer and Engineer who likes to transform ideas into reality.</h3>
 
-- 🔭 I’m a **Software developer specialized with using the M.E.R.N and P.E.R.N stacks.**
+- 🔭 I’m a **Software developer specialised in Java and JavaScript. I use frameworks such as Spring Boot and Express for the backend, and Angular or NextJS for the Frontend.**
 
 - 👯I am open to collaboration opportunities on **open source projects.**
 
-- ⚡ Fun fact: **I am also a Certified Graphic Designer, good at Drawing, and a copywriter with exceptional speaking, and writing skills, and good at conveying whatever it is I know.**
+- ⚡ Fun fact: **I am also a Certified Graphic Designer, good at Drawing, and a copywriter with exceptional speaking and writing skills, and good at conveying whatever it is I know.**
 
 - 🌐 View more of my [Work](https://erichirwa.com/)
 
