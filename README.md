@@ -21,8 +21,12 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=hirwajeaneric&theme=dark&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hirwajeaneric&theme=dark&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwajeaneric&theme=dark&layout=compact&hide_border=false)
+
+## 📈 Quick stats
+![Followers](https://img.shields.io/github/followers/hirwajeaneric?label=Followers&style=social)
+![Public repos](https://img.shields.io/github/repos/hirwajeaneric?style=flat)
 
 ## 🏆 GitHub Trophies
 
@@ -32,4 +36,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=hirwajeaneric&icon=0&color=0)](https://visitcount.itsvg.in)
 
-_Last updated: 2026-01-06 (automated update via GitHub Copilot)"
+_Last updated: 2026-01-06 (automated update via GitHub Copilot)_
