@@ -42,7 +42,3 @@
   [![Forks](https://img.shields.io/github/forks/hirwajeaneric/NestJS-Course-Documentation?style=flat)](https://github.com/hirwajeaneric/NestJS-Course-Documentation/network)
   [![Last commit](https://img.shields.io/github/last-commit/hirwajeaneric/NestJS-Course-Documentation)](https://github.com/hirwajeaneric/NestJS-Course-Documentation/commits/main)
   [![Top language](https://img.shields.io/github/languages/top/hirwajeaneric/NestJS-Course-Documentation?color=blue)](https://github.com/hirwajeaneric/NestJS-Course-Documentation)
-
-Notes:
-- If you want demo/docs links shown here, provide the URLs and I’ll insert them.
-- If you prefer thumbnail screenshots, add images to each repo (e.g., /assets/screenshot.png) and I can reference them.
