@@ -1,28 +1,35 @@
 <h1 align="center">Hi there 👋, I'm HIRWA Jean Eric</h1>
-<h3 align="center">A Software Developer and Engineer who likes to transform ideas into reality.</h3>
+<p align="center">A Software Developer & Engineer who likes to transform ideas into reality — Java, JavaScript, TypeScript, and modern web frameworks.</p>
 
-- 🔭 I’m a **Software developer specialised in Java and JavaScript-based frameworks. I use frameworks such as Spring Boot, NestJS and Express for the backend, and Angular or NextJS for the Frontend.**
+- 🔭 I’m a Software developer specialized in Java and JavaScript-based frameworks. I commonly use Spring Boot, NestJS, and Express for back-end development, and Angular or Next.js for front-end work.
 
-- 👯I am open to collaboration opportunities on **open source projects.**
+- 🌱 I’m currently exploring cloud-native development (Kubernetes), GraphQL, and advanced TypeScript patterns.
 
-- ⚡ Fun fact: **I am also a Certified Graphic Designer, good at Drawing, and a copywriter with exceptional speaking and writing skills, and exceptionally good at conveying whatever it is I know (Public and presentation skills).**
+- 👯 I’m open to collaboration on open source projects — feel free to reach out.
 
-- 🌐 View more of my [Work](https://erichirwa.com/)
+- ⚡ Fun fact: I’m also a Certified Graphic Designer, enjoy drawing, and I do copywriting with strong speaking and writing skills.
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://rw.linkedin.com/in/jean-eric-hirwa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hirwa_jean_eric/)
+- 🌐 View more of my work: https://erichirwa.com/
 
-## 💻 Languages and Tools:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=Vim&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![JSON](https://img.shields.io/badge/json-%23F7DF1E.svg?style=for-the-badge&logo=json&logoColor=000000) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://rw.linkedin.com/in/jean-eric-hirwa) [![Website](https://img.shields.io/badge/Website-erichirwa.com-111111?style=flat&logo=readthedocs&logoColor=white)](https://erichirwa.com/)
+
+## 💻 Languages and Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hirwajeaneric&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hirwajeaneric&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwajeaneric&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=hirwajeaneric&theme=dark&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwajeaneric&theme=dark&layout=compact&hide_border=false)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=hirwajeaneric&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=hirwajeaneric&icon=0&color=0)](https://visitcount.itsvg.in)
+
+_Last updated: 2026-01-06 (automated update via GitHub Copilot)"
