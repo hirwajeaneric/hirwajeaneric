@@ -1,43 +1,65 @@
-# Hi, I'm Eric Hirwajean
+# Hi, I’m Jean Eric Hirwa 👋
 
-Welcome to my GitHub profile repository. Below are a couple of featured projects that I maintain — presented as templated project cards with badges and quick links so you can jump in easily.
+Welcome to my GitHub profile — I'm a software engineer focused on building scalable web applications, developer tooling, and course materials to help others learn modern web stacks.
 
----
+
+## Badges
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/hirwajeaneric?style=for-the-badge)](https://twitter.com/hirwajeaneric)  
+[![GitHub followers](https://img.shields.io/github/followers/hirwajeaneric?label=Follow&style=for-the-badge)](https://github.com/hirwajeaneric)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirwa-jean-eric)
+
+
+## Languages & Tools
+
+I frequently work with:
+
+- JavaScript / TypeScript
+- Node.js & NestJS
+- React / Next.js
+- TanStack (React Query / React Table / Router)
+- Git & GitHub
+- PostgreSQL, Prisma
+- Docker
+
+
+## Quick stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hirwajeaneric&show_icons=true&theme=radical&count_private=true)](https://github.com/hirwajeaneric)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwajeaneric&layout=compact&theme=radical)](https://github.com/hirwajeaneric)
+
 
 ## Featured Projects
 
-### TanStack-Start-Course-Starter-to-Mastery
+Here are two course repositories I maintain — useful as course materials and starters.
 
-[![TanStack Repo](https://img.shields.io/badge/Repository-TanStack--Start--Course--Starter--to--Mastery-blue?style=for-the-badge)](https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery)
+- TanStack-Start-Course-Starter-to-Mastery — A starter and course material for learning the TanStack ecosystem (React Query, React Table, Router).
+  - Repository: https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery
+  - Badges: 
+    - ![Stars](https://img.shields.io/github/stars/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery?style=flat-square)
+    - ![Forks](https://img.shields.io/github/forks/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery?style=flat-square)
+    - ![Last Commit](https://img.shields.io/github/last-commit/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery?style=flat-square)
+    - ![Top Language](https://img.shields.io/github/languages/top/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery?style=flat-square)
 
-[![Stars](https://img.shields.io/github/stars/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery?style=flat-square)](https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery/stargazers) [![Forks](https://img.shields.io/github/forks/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery?style=flat-square)](https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery/network/members) [![Open Issues](https://img.shields.io/github/issues/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery?style=flat-square)](https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery/issues) [![License](https://img.shields.io/github/license/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery?style=flat-square)](https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery/blob/main/LICENSE)
+- NestJS-Course-Documentation — Documentation and course notes for mastering NestJS.
+  - Repository: https://github.com/hirwajeaneric/NestJS-Course-Documentation
+  - Badges: 
+    - ![Stars](https://img.shields.io/github/stars/hirwajeaneric/NestJS-Course-Documentation?style=flat-square)
+    - ![Forks](https://img.shields.io/github/forks/hirwajeaneric/NestJS-Course-Documentation?style=flat-square)
+    - ![Last Commit](https://img.shields.io/github/last-commit/hirwajeaneric/NestJS-Course-Documentation?style=flat-square)
+    - ![Top Language](https://img.shields.io/github/languages/top/hirwajeaneric/NestJS-Course-Documentation?style=flat-square)
 
-A starter kit and companion materials for the TanStack courses — built to help learners move from starter to mastery. Includes structured examples, exercises, and best-practice patterns for modern React + TanStack tooling.
 
-Quick links:
-- Repository: https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery
-- Clone: git clone https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery.git
+## GitHub Trophies
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=hirwajeaneric&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-### NestJS-Course-Documentation
 
-[![NestJS Repo](https://img.shields.io/badge/Repository-NestJS--Course--Documentation-orange?style=for-the-badge)](https://github.com/hirwajeaneric/NestJS-Course-Documentation)
+## Visitor Count
 
-[![Stars](https://img.shields.io/github/stars/hirwajeaneric/NestJS-Course-Documentation?style=flat-square)](https://github.com/hirwajeaneric/NestJS-Course-Documentation/stargazers) [![Forks](https://img.shields.io/github/forks/hirwajeaneric/NestJS-Course-Documentation?style=flat-square)](https://github.com/hirwajeaneric/NestJS-Course-Documentation/network/members) [![Open Issues](https://img.shields.io/github/issues/hirwajeaneric/NestJS-Course-Documentation?style=flat-square)](https://github.com/hirwajeaneric/NestJS-Course-Documentation/issues) [![License](https://img.shields.io/github/license/hirwajeaneric/NestJS-Course-Documentation?style=flat-square)](https://github.com/hirwajeaneric/NestJS-Course-Documentation/blob/main/LICENSE)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=hirwajeaneric.hirwajeaneric)
 
-Comprehensive documentation, examples, and learning resources for a NestJS course. Focuses on practical server-side application patterns, testing, and deployment guidance.
-
-Quick links:
-- Repository: https://github.com/hirwajeaneric/NestJS-Course-Documentation
-- Clone: git clone https://github.com/hirwajeaneric/NestJS-Course-Documentation.git
-
----
-
-## How to use these project cards
-
-- Click the repository badge or the quick links to open the project.
-- Use the Clone link to get a local copy and follow each repository's README for setup instructions.
 
 ---
 
