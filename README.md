@@ -28,6 +28,33 @@
 ![Followers](https://img.shields.io/github/followers/hirwajeaneric?label=Followers&style=social)
 ![Public repos](https://img.shields.io/github/repos/hirwajeaneric?style=flat)
 
+## 🚀 Featured Projects
+
+> A selection of projects I'm proud of. Replace these placeholder links with your actual repositories or tell me to auto-populate the top 3 public repos.
+
+### Project: Portfolio Website
+- Description: Personal portfolio showcasing my work, case studies, and contact information.
+- Tech: Next.js, React, Tailwind CSS
+- Live: https://erichirwa.com/
+- Repo: https://github.com/hirwajeaneric/portfolio (replace with actual repo)
+
+---
+
+### Project: Project-1 (placeholder)
+- Description: Short description of the project and its purpose.
+- Tech: Spring Boot, PostgreSQL, Docker
+- Live / Demo: (add link)
+- Repo: https://github.com/hirwajeaneric/project-1 (replace with actual repo)
+
+---
+
+### Project: Project-2 (placeholder)
+- Description: Short description of the project and its purpose.
+- Tech: NestJS, Angular, GraphQL
+- Live / Demo: (add link)
+- Repo: https://github.com/hirwajeaneric/project-2 (replace with actual repo)
+
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=hirwajeaneric&theme=radical&no-frame=false&no-bg=false&margin-w=4)
