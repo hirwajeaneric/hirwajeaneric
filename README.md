@@ -1,87 +1,148 @@
-<h1 align="center">Hi there 👋, I'm HIRWA Jean Eric</h1>
-<p align="center">
-  Software Developer & Engineer. I turn ideas into products people actually use.<br />
-  Right now that product is <a href="https://thetorchman.app"><strong>The Torch Man</strong></a> — your digital accountability partner.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://thetorchman.app"><img src="https://img.shields.io/badge/Try%20The%20Torch%20Man-thetorchman.app-111111?style=for-the-badge" alt="Try The Torch Man" /></a>
-  &nbsp;
-  <a href="https://erichirwa.com/"><img src="https://img.shields.io/badge/Portfolio-erichirwa.com-0A66C2?style=for-the-badge" alt="Portfolio" /></a>
-</p>
+<img src="https://thetorchman.app/logo512.png" width="96" alt="The Torch Man" />
+
+# Hi, I'm HIRWA Jean Eric
+
+**I don’t ship another todo list.**  
+I ship **[The Torch Man](https://thetorchman.app)** — the digital accountability partner that tracks your whole professional life and scores whether you actually showed up.
+
+Java · TypeScript · Spring Boot · NestJS · Next.js · TanStack Start  
+Certified graphic designer. Copywriter. Builder.
+
+<br />
+
+<a href="https://thetorchman.app">
+  <img src="https://img.shields.io/badge/🔥%20Start%20free%20today-thetorchman.app-111111?style=for-the-badge" alt="Start free" />
+</a>
+&nbsp;
+<a href="https://thetorchman.app/demo-request">
+  <img src="https://img.shields.io/badge/Book%20a%20walkthrough-amber-D97706?style=for-the-badge" alt="Book a walkthrough" />
+</a>
+&nbsp;
+<a href="https://erichirwa.com">
+  <img src="https://img.shields.io/badge/Portfolio-erichirwa.com-0A66C2?style=for-the-badge" alt="Portfolio" />
+</a>
+
+</div>
 
 ---
 
-I use: **Java, JavaScript, TypeScript, and modern web frameworks.** Backend: Spring Boot, NestJS, Express. Frontend: Angular, Next.js, TanStack Start. I also design, write, and ship the product — not just the code.
+<div align="center">
 
-- 🔥 **Building [The Torch Man](https://thetorchman.app)** — an all-in-one accountability system for habits, tasks, learning, goals, projects, finances, and your portfolio. Not another todo list. A daily score, a capacity budget, and a coach that will get on your nerves when you need it.
-- 🌱 Exploring cloud-native development (Kubernetes), GraphQL, and advanced TypeScript patterns.
-- 👯 Open to collaboration on open source and ambitious product work — feel free to reach out.
-- ⚡ Fun fact: Certified graphic designer. I draw, I copywrite, and I speak and write for a living as much as I code.
-- 🌐 More of my work: [erichirwa.com](https://erichirwa.com/)
+## Stop planning. Start answering to the score.
 
-## 🔥 The Torch Man
+### [The Torch Man](https://thetorchman.app) is your digital accountability partner.
 
-**Your digital accountability partner.** No more plan and forget.
+Habits. Tasks. Learning. Goals. Projects. Notes. Finances. Portfolio.  
+One cockpit. One daily score. A coach that **will get on your nerves** when you need it.
 
-The Torch Man tracks and enforces performance across the parts of life that actually move the needle — habits, tasks, learning, goals, projects, finances, and portfolio — the way a serious professional would. Capacity planning stops overcommitment before it becomes a week of guilt. A weighted daily score (discipline, tasks, learning, review) tells you if you showed up. Paid tiers add Finances and Portfolio so cash flow and net worth sit next to the same week.
+**No more plan and forget.**
 
-[**Start free → thetorchman.app**](https://thetorchman.app) · [Book a walkthrough](https://thetorchman.app/demo-request)
+<a href="https://thetorchman.app">
+  <img src="https://thetorchman.app/assets/today-page-dark.png" width="900" alt="The Torch Man Today cockpit — daily score, habits, and capacity" />
+</a>
 
-| What you get | Why it isn’t another task manager |
+<sub>The Today cockpit — live score, habits, tasks, learning, and capacity in one place.</sub>
+
+</div>
+
+<br />
+
+<div align="center">
+
+| Run the day | Own the week |
+| :---: | :---: |
+| <a href="https://thetorchman.app"><img src="https://thetorchman.app/assets/schedule-board-day-mode-dark.png" alt="Day schedule with capacity-aware time blocks" /></a> | <a href="https://thetorchman.app"><img src="https://thetorchman.app/assets/weekly-performance-review-dark.png" alt="Weekly performance review with recommendations" /></a> |
+| **Capacity-aware schedule** — drag the day, see overload before you commit. | **Weekly review** — what slipped, what to cut, what to double down on. |
+
+| Measure the work | Keep the streak |
+| :---: | :---: |
+| <a href="https://thetorchman.app"><img src="https://thetorchman.app/assets/performance-analytics-1-dark.png" alt="Performance analytics across habits, tasks, and learning" /></a> | <a href="https://thetorchman.app"><img src="https://thetorchman.app/assets/habit-heatmap-dark.png" alt="Habit heatmap and consistency tracking" /></a> |
+| **Analytics that bite** — 30 days to 5 years. Trend, not vibes. | **Habit heatmap** — consistency you can’t argue with. |
+
+| Cash flow next to the week | Net worth next to the week |
+| :---: | :---: |
+| <a href="https://thetorchman.app"><img src="https://thetorchman.app/assets/finances-dark.png" alt="Finances workspace for cash flow and budgets" /></a> | <a href="https://thetorchman.app"><img src="https://thetorchman.app/assets/portfolio-dark.png" alt="Portfolio tracking for assets, liabilities, and net worth" /></a> |
+| **Finances (Plus+)** — budget, spend, savings beside the same week. | **Portfolio (Plus+)** — assets, liabilities, net worth. Same system. |
+
+</div>
+
+---
+
+### Why people switch (and stay)
+
+This is not Notion with a checklist. This is not another calendar with due dates.
+
+| Typical apps | **The Torch Man** |
 | --- | --- |
-| Today cockpit + day/week schedule | One command center, not five apps |
-| Weighted daily score (target 96%) | Progress you can measure, not just check off |
-| 14-hour capacity budget + insights | Overload coaching before you burn out |
-| Habits, tasks, goals, learning, notes | Linked, not siloed |
-| Finances + Portfolio (Plus / Pro) | Cash, net worth, and the week in one place |
+| Items checked off | **Weighted daily score** — discipline 40% · tasks 30% · learning 20% · review 10% |
+| Plan and forget | **14-hour capacity budget** + overload coaching |
+| Five tools, zero truth | **One partner** for work, learning, money, and net worth |
+| Optional reflection | **Evening + weekly review** with recommendations |
+| Pretty dashboards | **A score you either hit or you didn’t** — default target **96%** |
 
-**Stack:** TanStack Start · React 19 · TypeScript · Prisma · PostgreSQL · Tailwind CSS
+Built for founders, consultants, managers, researchers, creators, and solo professionals who are done lying to themselves about “busy.”
+
+<div align="center">
+
+### Free to start. Plus and Pro when you’re ready to run the whole life.
+
+[**Start free → thetorchman.app**](https://thetorchman.app) · [See pricing](https://thetorchman.app/pricing) · [Book a walkthrough](https://thetorchman.app/demo-request)
+
+<img src="https://thetorchman.app/assets/goal-tracking-1-dark.png" width="900" alt="Goal tracking with milestones and progress" />
+
+<sub>Goals and milestones — the long game, tied to today’s work.</sub>
 
 <p>
-  <a href="https://thetorchman.app"><img src="https://img.shields.io/badge/Live-thetorchman.app-amber?style=flat-square" alt="Live" /></a>
-  <a href="https://thetorchman.app/pricing"><img src="https://img.shields.io/badge/Pricing-Free%20%7C%20Plus%20%7C%20Pro-111111?style=flat-square" alt="Pricing" /></a>
+  <img src="https://img.shields.io/badge/TanStack_Start-black?style=flat-square&logo=react" alt="TanStack Start" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 </p>
+
+</div>
 
 ---
 
-## 🌐 Connect with me
+## 👋 About me
+
+I transform ideas into products — **Java, JavaScript, TypeScript**, and modern web frameworks. Backend: Spring Boot, NestJS, Express. Frontend: Angular, Next.js, TanStack. I also design the brand and write the copy.
+
+- 🔥 Shipping **[The Torch Man](https://thetorchman.app)** — try it, then tell me your score.
+- 🌱 Exploring Kubernetes, GraphQL, and advanced TypeScript patterns.
+- 👯 Open to collaboration on ambitious product and open-source work.
+- ⚡ Certified graphic designer. I draw, I write, I speak.
+- 🌐 [erichirwa.com](https://erichirwa.com/)
+
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://rw.linkedin.com/in/jean-eric-hirwa)
 [![Website](https://img.shields.io/badge/Website-erichirwa.com-111111?style=flat&logo=readthedocs&logoColor=white)](https://erichirwa.com/)
-[![The Torch Man](https://img.shields.io/badge/The%20Torch%20Man-thetorchman.app-111111?style=flat)](https://thetorchman.app)
+[![The Torch Man](https://img.shields.io/badge/🔥%20The%20Torch%20Man-thetorchman.app-D97706?style=flat)](https://thetorchman.app)
 
-## 🚀 Featured Projects
+## 🚀 Other work
 
-### The Torch Man — Digital Accountability Partner
-- **What:** Full-stack life OS: Today cockpit, habits, schedule, goals, learning, analytics, insights, Finances, and Portfolio.
-- **Tech:** TanStack Start, React 19, TypeScript, Prisma, PostgreSQL, Tailwind CSS 4
-- **Live:** https://thetorchman.app
-- **CTA:** [Start free](https://thetorchman.app) · [Pricing](https://thetorchman.app/pricing) · [Request a demo](https://thetorchman.app/demo-request)
+<details>
+<summary><strong>TanStack — Start Course: Starter to Mastery</strong> (the stack behind The Torch Man)</summary>
 
----
+A starter-to-mastery course repo for the TanStack ecosystem (Query, Table, Router, Start).
 
-### TanStack — Start Course: Starter to Mastery
-- Description: A comprehensive starter-to-mastery course repository focused on the TanStack ecosystem (Query, Table, Router, Start) for building performant React/TypeScript apps — the same stack behind The Torch Man.
-- Tech: React, TypeScript, TanStack Query / Table / Router, Vite
 - Repo: https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery
-- Badges:
-  [![Stars](https://img.shields.io/github/stars/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery?style=social)](https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery/stargazers)
-  [![Forks](https://img.shields.io/github/forks/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery?style=flat)](https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery/network)
+- [![Stars](https://img.shields.io/github/stars/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery?style=social)](https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery/stargazers)
   [![Last commit](https://img.shields.io/github/last-commit/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery)](https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery/commits/main)
-  [![Top language](https://img.shields.io/github/languages/top/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery?color=blue)](https://github.com/hirwajeaneric/TanStack-Start-Course-Starter-to-Mastery)
 
----
+</details>
 
-### NestJS — Course Documentation
-- Description: Course documentation and resources for learning NestJS — guides, examples, and reference material for production-ready NestJS applications.
-- Tech: NestJS, TypeScript, Node.js, Docker
+<details>
+<summary><strong>NestJS — Course Documentation</strong></summary>
+
+Guides, examples, and reference material for production-ready NestJS apps.
+
 - Repo: https://github.com/hirwajeaneric/NestJS-Course-Documentation
-- Badges:
-  [![Stars](https://img.shields.io/github/stars/hirwajeaneric/NestJS-Course-Documentation?style=social)](https://github.com/hirwajeaneric/NestJS-Course-Documentation/stargazers)
-  [![Forks](https://img.shields.io/github/forks/hirwajeaneric/NestJS-Course-Documentation?style=flat)](https://github.com/hirwajeaneric/NestJS-Course-Documentation/network)
+- [![Stars](https://img.shields.io/github/stars/hirwajeaneric/NestJS-Course-Documentation?style=social)](https://github.com/hirwajeaneric/NestJS-Course-Documentation/stargazers)
   [![Last commit](https://img.shields.io/github/last-commit/hirwajeaneric/NestJS-Course-Documentation)](https://github.com/hirwajeaneric/NestJS-Course-Documentation/commits/main)
-  [![Top language](https://img.shields.io/github/languages/top/hirwajeaneric/NestJS-Course-Documentation?color=blue)](https://github.com/hirwajeaneric/NestJS-Course-Documentation)
+
+</details>
