@@ -104,12 +104,12 @@ Built for founders, consultants, managers, researchers, creators, and solo profe
 
 ## 👋 About me
 
-I transform ideas into products — **Java, JavaScript, TypeScript**, and modern web frameworks. Backend: Spring Boot, NestJS, Express. Frontend: Angular, Next.js, TanStack. I also design the brand and write the copy.
+I transform ideas into products. I use: **Java, JavaScript, TypeScript**, and modern web frameworks. Backend: Spring Boot, NestJS, Express. Frontend: Angular, Next.js, TanStack. I also design the brand and write the copy.
 
-- 🔥 Shipping **[The Torch Man](https://thetorchman.app)** — try it, then tell me your score.
-- 🌱 Exploring Kubernetes, GraphQL, and advanced TypeScript patterns.
+- 🔥 Shipping **[The Torch Man](https://thetorchman.app)** — try it, give me feedbacks.
+- 🌱 Exploring Cloud computing, DevOps, and cyber security nowadays.
 - 👯 Open to collaboration on ambitious product and open-source work.
-- ⚡ Certified graphic designer. I draw, I write, I speak.
+- ⚡ Certified Scrum Master. Fun facts: I am good at conveying what I know, "That's what people tell me any way." I draw, I write, sometimes I can talk about stuff too.
 - 🌐 [erichirwa.com](https://erichirwa.com/)
 
 ## 🌐 Connect
