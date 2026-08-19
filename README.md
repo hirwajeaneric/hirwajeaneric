@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://thetorchman.app/logo512.png" width="96" alt="The Torch Man" />
-
 # Hi, I'm HIRWA Jean Eric
 
 **I don’t ship another to-do list.**  
