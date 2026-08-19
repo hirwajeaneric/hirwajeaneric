@@ -12,7 +12,7 @@
 
 ---
 
-**Java, JavaScript, TypeScript, and modern web frameworks.** Backend: Spring Boot, NestJS, Express. Frontend: Angular, Next.js, TanStack Start. I also design, write, and ship the product — not just the code.
+I use: **Java, JavaScript, TypeScript, and modern web frameworks.** Backend: Spring Boot, NestJS, Express. Frontend: Angular, Next.js, TanStack Start. I also design, write, and ship the product — not just the code.
 
 - 🔥 **Building [The Torch Man](https://thetorchman.app)** — an all-in-one accountability system for habits, tasks, learning, goals, projects, finances, and your portfolio. Not another todo list. A daily score, a capacity budget, and a coach that will get on your nerves when you need it.
 - 🌱 Exploring cloud-native development (Kubernetes), GraphQL, and advanced TypeScript patterns.
