@@ -4,11 +4,8 @@
 
 # Hi, I'm HIRWA Jean Eric
 
-**I don’t ship another todo list.**  
+**I don’t ship another to-do list.**  
 I ship **[The Torch Man](https://thetorchman.app)** — the digital accountability partner that tracks your whole professional life and scores whether you actually showed up.
-
-Java · TypeScript · Spring Boot · NestJS · Next.js · TanStack Start  
-Certified graphic designer. Copywriter. Builder.
 
 <br />
 
